@@ -1,16 +1,42 @@
-## Hi there 👋
+### 👋 Merhaba, ben **Kerim Tetik**
 
-<!--
-**kerimtetik/kerimtetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Yazılım Geliştirici** | Java & JavaScript odaklı tam yığın (Full Stack) projeler geliştiriyorum.  
+🚀 Amacım; gerçek dünyadaki problemleri çözebilen, ölçeklenebilir ve modern uygulamalar üretmek.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Kullandığım Teknolojiler
+- **Frontend:** React, JavaScript, HTML, CSS  
+- **Backend:** Java (Spring),
+- **Veritabanı:** PostgreSql, Firebase
+- **Araçlar:** Git, Docker
+
+---
+
+### 🧩 Öne Çıkan Projeler
+- ☕ **[CafePos](https://github.com/kerimtetik/cafePos)** – Kafe hesap takip ve yönetim sistemi (Java)  
+- 🤖 **Yapay Zeka Agent** – AI tabanlı karar verme ve otomasyon sistemi  
+- 🚗 **Rota Optimizer** – En kısa güzergâhı bulan rota optimizasyon aracı  
+- 💼 **[Portfolyo](https://github.com/kerimtetik/portfolyo)** – Kişisel tanıtım sitesi  
+- 🛍️ **Eticaret** – Gözlük satışına özel e-ticaret platformu  
+- 🧠 **Femur Boyun Açısı Bulma** – Görüntüden açısal ölçüm yapan hesaplama projesi  
+
+---
+
+### 🌱 Hakkımda
+- Sürekli öğrenmeyi ve yeni teknolojiler keşfetmeyi seviyorum.  
+- Yapay zekâ, optimizasyon algoritmaları ve kullanıcı deneyimi odaklı geliştirmelere ilgi duyuyorum.  
+- Kişisel web sitem: **[kerimtetik.com](https://www.kerimtetik.com/)**  
+
+---
+
+### 📫 Bana Ulaş
+📧 kerimtetik@example.com  
+🌐 [kerimtetik.com](https://www.kerimtetik.com/)  
+💼 [LinkedIn](https://www.linkedin.com/in/kerim-tetik-708168221/)
+
+---
+
+### 📊 GitHub İstatistikleri
+![Kerim Tetik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerimtetik&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerimtetik&layout=compact&theme=radical)
