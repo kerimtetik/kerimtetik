@@ -31,12 +31,8 @@
 ---
 
 ### 📫 Bana Ulaş
-📧 kerimtetik@example.com  
+📧 abdulkerimtetik0@gmail.com
 🌐 [kerimtetik.com](https://www.kerimtetik.com/)  
 💼 [LinkedIn](https://www.linkedin.com/in/kerim-tetik-708168221/)
 
----
 
-### 📊 GitHub İstatistikleri
-![Kerim Tetik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerimtetik&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerimtetik&layout=compact&theme=radical)
