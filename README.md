@@ -1,15 +1,15 @@
 ### 👋 Merhaba, ben **Kerim Tetik**
 
-🎯 **Yazılım Geliştirici** | Java & JavaScript odaklı tam yığın (Full Stack) projeler geliştiriyorum.  
+🎯 **Yazılım Geliştirici** | Java(Spring Boot) & C#(.Net) & JavaScript odaklı tam yığın (Full Stack) projeler geliştiriyorum.  
 🚀 Amacım; gerçek dünyadaki problemleri çözebilen, ölçeklenebilir ve modern uygulamalar üretmek.
 
 ---
 
 ### 💻 Kullandığım Teknolojiler
 - **Frontend:** React, JavaScript, HTML, CSS  
-- **Backend:** Java (Spring),
-- **Veritabanı:** PostgreSql, Firebase
-- **Araçlar:** Git, Docker
+- **Backend:** Java (Spring),C#(.Net),Python
+- **Veritabanı:** PostgreSql
+- **Araçlar:** Git, Docker,Postman 
 
 ---
 
