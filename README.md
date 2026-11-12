@@ -1,38 +1,25 @@
-### 👋 Merhaba, ben **Kerim Tetik**
+# Merhaba, ben Kerim Tetik 👋
 
-🎯 **Yazılım Geliştirici** | Java(Spring Boot) & C#(.Net) & JavaScript odaklı tam yığın (Full Stack) projeler geliştiriyorum.  
-🚀 Amacım; gerçek dünyadaki problemleri çözebilen, ölçeklenebilir ve modern uygulamalar üretmek.
+Full stack yazılım geliştiricisiyim. Web uygulamalarının arayüzlerini React ve JavaScript ile, sunucu tarafını ise Java (Spring Boot) veya C# (.NET) ile geliştiriyorum. Yapay zekâ, rota optimizasyonu ve kullanıcı deneyimiyle ilgileniyorum.
 
----
+## Öne çıkan projeler
 
-### 💻 Kullandığım Teknolojiler
-- **Frontend:** React, JavaScript, HTML, CSS  
-- **Backend:** Java (Spring),C#(.Net),Python
-- **Veritabanı:** PostgreSql
-- **Araçlar:** Git, Docker,Postman 
+- **[CafePos](https://github.com/kerimtetik/cafePos)** — Kafelerde hesap takibi ve yönetimi için geliştirdiğim Java uygulaması.
+- **[Rota Optimizer](https://github.com/kerimtetik/rota-optimizer)** — En kısa güzergâhı hesaplayan rota optimizasyon aracı.
+- **[Femur Boyun Açısı Bulma](https://github.com/kerimtetik/Femur-Boyun-Acisi-Bulma)** — Görüntü üzerinde femur boyun açısını ölçen uygulama.
+- **[E-ticaret platformu](https://github.com/kerimtetik/eticaret)** — Gözlük satışı için geliştirdiğim e-ticaret projesi.
+- **Yapay Zekâ Agent** — Karar verme ve görev otomasyonu için geliştirdiğim yapay zekâ projesi.
+- **[Portfolyo](https://github.com/kerimtetik/portfolyo)** — Kişisel tanıtım sitemin kaynak kodu.
 
----
+## Kullandığım teknolojiler
 
-### 🧩 Öne Çıkan Projeler
-- ☕ **[CafePos](https://github.com/kerimtetik/cafePos)** – Kafe hesap takip ve yönetim sistemi (Java)  
-- 🤖 **Yapay Zeka Agent** – AI tabanlı karar verme ve otomasyon sistemi  
-- 🚗 **Rota Optimizer** – En kısa güzergâhı bulan rota optimizasyon aracı  
-- 💼 **[Portfolyo](https://github.com/kerimtetik/portfolyo)** – Kişisel tanıtım sitesi  
-- 🛍️ **Eticaret** – Gözlük satışına özel e-ticaret platformu  
-- 🧠 **Femur Boyun Açısı Bulma** – Görüntüden açısal ölçüm yapan hesaplama projesi  
+| Alan | Teknolojiler |
+| --- | --- |
+| Frontend | React, JavaScript, HTML, CSS |
+| Backend | Java (Spring Boot), C# (.NET), Python |
+| Veritabanı | PostgreSQL |
+| Araçlar | Git, Docker, Postman |
 
----
+## İletişim
 
-### 🌱 Hakkımda
-- Sürekli öğrenmeyi ve yeni teknolojiler keşfetmeyi seviyorum.  
-- Yapay zekâ, optimizasyon algoritmaları ve kullanıcı deneyimi odaklı geliştirmelere ilgi duyuyorum.  
-- Kişisel web sitem: **[kerimtetik.com](https://www.kerimtetik.com/)**  
-
----
-
-### 📫 Bana Ulaş
-📧 abdulkerimtetik0@gmail.com
-🌐 [kerimtetik.com](https://www.kerimtetik.com/)  
-💼 [LinkedIn](https://www.linkedin.com/in/kerim-tetik-708168221/)
-
-
+[kerimtetik.com](https://www.kerimtetik.com/) · [LinkedIn](https://www.linkedin.com/in/kerim-tetik-708168221/) · [abdulkerimtetik0@gmail.com](mailto:abdulkerimtetik0@gmail.com)
