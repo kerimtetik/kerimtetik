@@ -1,25 +1,29 @@
-# Merhaba, ben Kerim Tetik 👋
+![Kerim Tetik · Full Stack Geliştirici](./assets/kerim-tetik.svg)
 
-Full stack yazılım geliştiricisiyim. Web uygulamalarının arayüzlerini React ve JavaScript ile, sunucu tarafını ise Java (Spring Boot) veya C# (.NET) ile geliştiriyorum. Yapay zekâ, rota optimizasyonu ve kullanıcı deneyimiyle ilgileniyorum.
+Bilgisayar mühendisiyim. Java ve C# ile REST API’leri, React ile bu servisleri kullanan arayüzler geliştiriyorum. İnönü Üniversitesinde Yazılım Mühendisliği alanında yüksek lisans yapıyor, Yeşilyurt Halk Eğitim Merkezinde Python ve internet programlama dersleri veriyorum.
 
-## Öne çıkan projeler
+[Portfolyo](https://www.kerimtetik.com/) · [LinkedIn](https://www.linkedin.com/in/kerim-tetik-708168221/) · [E-posta](mailto:abdulkerimtetik0@gmail.com)
 
-- **[CafePos](https://github.com/kerimtetik/cafePos)** — Kafelerde hesap takibi ve yönetimi için geliştirdiğim Java uygulaması.
-- **[Rota Optimizer](https://github.com/kerimtetik/rota-optimizer)** — En kısa güzergâhı hesaplayan rota optimizasyon aracı.
-- **[Femur Boyun Açısı Bulma](https://github.com/kerimtetik/Femur-Boyun-Acisi-Bulma)** — Görüntü üzerinde femur boyun açısını ölçen uygulama.
-- **[E-ticaret platformu](https://github.com/kerimtetik/eticaret)** — Gözlük satışı için geliştirdiğim e-ticaret projesi.
-- **Yapay Zekâ Agent** — Karar verme ve görev otomasyonu için geliştirdiğim yapay zekâ projesi.
-- **[Portfolyo](https://github.com/kerimtetik/portfolyo)** — Kişisel tanıtım sitemin kaynak kodu.
+## Seçili projeler
+
+| Proje | Ne yapıyor? |
+| --- | --- |
+| **[KayraExportCase](https://github.com/kerimtetik/KayraExportCase)** | Kimlik doğrulama, ürün ve günlük kaydı işlevlerini üç .NET 8 servisine ayırıyor. İstekleri YARP üzerinden ilgili servise yönlendiriyor. |
+| **[Gözlük e-ticaret sitesi](https://github.com/kerimtetik/eticaret)** | Spring Boot ve PostgreSQL ile ürün kataloğu, e-posta doğrulaması, alışveriş sepeti ve yönetici paneli sunuyor. |
+| **[Femur boyun açısı ölçüm aracı](https://github.com/kerimtetik/Femur-Boyun-Acisi-Bulma)** | Pelvis röntgenlerinde kemik bölgesini ayırıp femur boyun açısını Python ile hesaplıyor. Komut satırından veya Jupyter üzerinden kullanılabiliyor. |
+| **[Kişisel portfolyo](https://github.com/kerimtetik/portfolyo)** | Projelerimi ve deneyimlerimi Türkçe ve İngilizce sunan React uygulaması. Arayüzde Tailwind CSS ve Framer Motion kullandım. |
+
+## Deneyim
+
+- **Yeşilyurt Halk Eğitim Merkezi · Yazılım Eğitmeni** — Eylül 2026’dan bu yana Python ve internet programlama dersleri veriyorum.
+- **İnönü Üniversitesi Dijital Dönüşüm Ofisi · Full Stack Geliştirici Stajyeri** — Eylül 2025 – Ocak 2026 arasında Spring Boot servisleri ve React yönetim panelleri geliştirdim. PostgreSQL veri modelleri ve rol bazlı erişim denetimi üzerinde çalıştım.
+- **Kawien AI · Backend Geliştirici Stajyeri** — Haziran – Eylül 2025 arasında doğal dil işleme modellerini REST servislerine entegre ettim. Metni modele hazırlayan ve model yanıtını uygulamaya ileten akışlar geliştirdim.
 
 ## Kullandığım teknolojiler
 
 | Alan | Teknolojiler |
 | --- | --- |
-| Frontend | React, JavaScript, HTML, CSS |
-| Backend | Java (Spring Boot), C# (.NET), Python |
-| Veritabanı | PostgreSQL |
-| Araçlar | Git, Docker, Postman |
-
-## İletişim
-
-[kerimtetik.com](https://www.kerimtetik.com/) · [LinkedIn](https://www.linkedin.com/in/kerim-tetik-708168221/) · [abdulkerimtetik0@gmail.com](mailto:abdulkerimtetik0@gmail.com)
+| Backend | Java, Spring Boot, C#, .NET 8, Python |
+| Frontend | React, JavaScript, Material UI, HTML, CSS |
+| Veri ve doğal dil işleme | PostgreSQL, SQL, Hugging Face, NLTK, TensorFlow |
+| Geliştirme araçları | Git, Docker, Postman, Swagger |
